@@ -16,6 +16,7 @@ li {
     padding: 1em;
     position: relative;
     text-align: center;
+    white-space: nowrap;
     width: calc(50% - 10px - 2em);
 }
 
