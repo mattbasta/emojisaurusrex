@@ -12,6 +12,7 @@ li {
     line-height: 16px;
     list-style: none;
     margin: 0 5px 5px 0;
+    overflow: hidden;
     padding: 1em;
     position: relative;
     text-align: center;
